@@ -1,0 +1,54 @@
+@media all and (max-width: 1068px){
+    .daftar-desa li {
+        font-size: 23px;
+        padding-top: 8px;
+    }
+}
+
+@media all and (max-width:1283px) {
+    .daftar-desa li {
+        font-size: 23px;
+        padding-top: 8px;
+    }
+}
+
+@media all and (max-width:1045px) {
+    .daftar-desa li {
+        font-size: 20px;
+        padding-top: 7px;
+    }
+}
+
+@media all and (max-width:942px) {
+    .daftar-desa img {
+        text-align:center;
+        float:none;
+        width:500px;
+        height:500px;
+    }
+    .pilihan-desa {
+        text-align: center;
+    }
+    .daftar-desa {
+        height: 800px;
+    }
+    .daftar-desa a {
+        float:none;
+        padding-top: 100px;
+        padding-right: 0px;
+    }
+    .daftar-desa ul {
+        padding-bottom: 50px;
+    }
+}
+
+
+@media all and (max-width: 600px) {
+    .potentional {
+        width:100%;
+    }
+    .beranda {
+        height: 1700px;
+        background-size: cover;
+    }
+}
